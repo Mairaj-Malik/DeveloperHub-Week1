@@ -1,16 +1,21 @@
-# developers_hub_week1
+# Flutter Login Navigation – Week 1 (Developers Hub Internship)
 
-A new Flutter project.
+This is the Week 1 submission for the Developers Hub Internship. It contains:
 
-## Getting Started
+✅ A simple login screen with basic form validation  
+✅ Navigation from Login to Home screen  
+✅ Clean UI using Flutter widgets  
 
-This project is a starting point for a Flutter application.
+## 📁 Project Structure
 
-A few resources to get you started if this is your first Flutter project:
+- `main.dart` – Entry point
+- `login_screen.dart` – Login form with validation
+- `home_screen.dart` – Simple Home screen after login
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repo and run:
+
+```bash
+flutter pub get
+flutter run
